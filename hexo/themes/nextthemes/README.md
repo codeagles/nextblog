@@ -2,6 +2,14 @@
 
 > 精于心，简于形
 
+<font color=red>该主题经过本人修改代码以及深度优化过的,感兴趣的可以下载看配置文件和swig文件，找对应的位置进行参考，该文件夹不是完整文件夹（拷贝复制后主题不会生效）,修改如下：
+</font>
+<li>底栏logo，改为自定义logo(方法见我博客“Hexo-Next底部logo栏。。。”)</li>
+<li>侧栏增加自定义链接以及样式</li>
+<li>增加"友情链接"的字样以及修改摆放位置</li>
+<li>后续持续更新中，并补充在此。</li>
+详见博客地址：<a href="codeagles.com" >codeagles.com</a>
+
 <a href="http://notes.iissnan.com" target="_blank">在线预览 Preview</a> | <a href="http://theme-next.iissnan.com" target="_blank">NexT 使用文档</a> |  [English Documentation](README.en.md)
 
 [![Join the chat at https://gitter.im/iissnan/hexo-theme-next](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iissnan/hexo-theme-next?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
